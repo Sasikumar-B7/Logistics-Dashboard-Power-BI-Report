@@ -25,7 +25,7 @@ The goal is to enable **data-driven decision-making** by identifying operational
 * High-level performance summary
 
 📸 *Screenshot Placeholder:*
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](https://github.com/Sasikumar-B7/Logistics-Dashboard-Power-BI-Report/blob/main/Home%20Page.png)
 
 ---
 
@@ -288,22 +288,6 @@ These are **gold-level insights recruiters love** 👇
 2. Open using **Microsoft Power BI Desktop**
 3. Use slicers (Year/Month/Driver) to explore insights
 4. Navigate between pages using buttons
-
----
-
-## 📂 Repository Structure
-
-```bash
-/images
-   executive_dashboard.png
-   drivers_overview.png
-   hubs_overview.png
-   vehicles_overview.png
-   data_model.png
-
-SwiftRoute_Dashboard.pbix
-README.md
-```
 
 ---
 
