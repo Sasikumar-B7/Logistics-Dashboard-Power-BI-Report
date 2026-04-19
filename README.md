@@ -40,7 +40,7 @@ The goal is to enable **data-driven decision-making** by identifying operational
   * Performance rating (⭐ visual)
 
 📸 *Screenshot Placeholder:*
-![Drivers Overview](images/drivers_overview.png)
+![Drivers Overview](https://github.com/Sasikumar-B7/Logistics-Dashboard-Power-BI-Report/blob/main/Drivers%20Hub.png)
 
 ---
 
@@ -52,7 +52,7 @@ The goal is to enable **data-driven decision-making** by identifying operational
 * Identification of high-load hubs
 
 📸 *Screenshot Placeholder:*
-![Hubs Overview](images/hubs_overview.png)
+![Hubs Overview](https://github.com/Sasikumar-B7/Logistics-Dashboard-Power-BI-Report/blob/main/Hubs%20Overivew.png)
 
 ---
 
@@ -64,7 +64,7 @@ The goal is to enable **data-driven decision-making** by identifying operational
 * Orders distribution by vehicle type
 
 📸 *Screenshot Placeholder:*
-![Vehicles Overview](images/vehicles_overview.png)
+![Vehicles Overview](https://github.com/Sasikumar-B7/Logistics-Dashboard-Power-BI-Report/blob/main/Vehicles%20Overview.png)
 
 ---
 
@@ -81,7 +81,7 @@ The dashboard is built using a **Star Schema Data Model** to ensure performance 
   * Date Table
 
 📸 *Data Model View Placeholder:*
-![Data Model](images/data_model.png)
+![Data Model](https://github.com/Sasikumar-B7/Logistics-Dashboard-Power-BI-Report/blob/main/Data%20Modelling.png)
 
 ---
 
